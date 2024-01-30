@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Print headers on the result
+
 int main()
 {
     int fahr;
